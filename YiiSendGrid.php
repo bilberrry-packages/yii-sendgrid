@@ -67,11 +67,7 @@ class YiiSendGrid extends CApplicationComponent
     public function send(Mail $mail)
     {
         try {
-            $sg = $this->getSg();
-            $result = $sg->send($mail);
-
-            var_dump($result);
-
+            $this->getSg()->send($mail);
             return true;
         } catch (Exception $e) {
             return false;
