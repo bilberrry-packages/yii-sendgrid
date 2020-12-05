@@ -1,0 +1,14 @@
+{
+  "name": "bilberrry/yii-sendgrid",
+  "type": "library",
+  "require": {
+    "sendgrid/sendgrid": "^7.9"
+  },
+  "authors": [
+    {
+      "name": "Alex Bern",
+      "email": "usualdesigner@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
