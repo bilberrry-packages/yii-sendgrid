@@ -1,5 +1,5 @@
 {
-  "name": "bilberrry/yii-sendgrid",
+  "name": "bilberrry-packages/yii-sendgrid",
   "type": "library",
   "require": {
     "sendgrid/sendgrid": "^7.9"
