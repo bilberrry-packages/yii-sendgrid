@@ -1,6 +1,7 @@
 {
   "name": "bilberrry-packages/yii-sendgrid",
   "type": "library",
+  "license": "MIT",
   "require": {
     "sendgrid/sendgrid": "^7.9"
   },
